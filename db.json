@@ -24,5 +24,10 @@
     "SiteNr" : 4003332,
     "SiteTents" : 3,
     "SiteType" : "Satelite"
-  } ]
+  } ],
+  "Test" : {
+    "Name" : "Hello",
+    "Site" : "World",
+    "Ten" : "!"
+  }
 }
