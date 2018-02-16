@@ -1,0 +1,28 @@
+{
+  "Sites" : [ {
+    "Name" : "Johannesburg",
+    "SiteNr" : 3288787324,
+    "SiteTents" : 4,
+    "SiteType" : "Camo"
+  }, {
+    "Name" : "Fourways",
+    "SiteNr" : 30324,
+    "SiteTents" : 3,
+    "SiteType" : "Roof"
+  }, {
+    "Name" : "Rosebank",
+    "SiteNr" : 388723,
+    "SiteTents" : 3,
+    "SiteType" : "Landlord"
+  }, {
+    "Name" : "Greenside",
+    "SiteNr" : 903223,
+    "SiteTents" : 4,
+    "SiteType" : "Satelite"
+  }, {
+    "Name" : "Bryanston",
+    "SiteNr" : 4003332,
+    "SiteTents" : 3,
+    "SiteType" : "Satelite"
+  } ]
+}
