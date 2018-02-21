@@ -7975,30 +7975,6 @@
     "SiteNumber" : "653627064-9",
     "Supervisor" : "Kerstin Corbett",
     "SupervisorContact" : "587-449-8642"
-  }, {
-    "Latitude" : 31.354368,
-    "Location" : "156 Drewry Avenue",
-    "Longitude" : 114.982355,
-    "SiteName" : "Squirrel, african bush",
-    "SiteNumber" : "614727748-0",
-    "Supervisor" : "Amandy Cockson",
-    "SupervisorContact" : "784-329-3115"
-  }, {
-    "Latitude" : 23.7369164,
-    "Location" : "4502 Mariners Cove Crossing",
-    "Longitude" : -99.1411154,
-    "SiteName" : "Common long-nosed armadillo",
-    "SiteNumber" : "100232170-0",
-    "Supervisor" : "Virge Dunkerly",
-    "SupervisorContact" : "125-206-5188"
-  }, {
-    "Latitude" : 36.650038,
-    "Location" : "1470 North Alley",
-    "Longitude" : 101.766228,
-    "SiteName" : "Waterbuck, defassa",
-    "SiteNumber" : "279617896-X",
-    "Supervisor" : "Dannel Gress",
-    "SupervisorContact" : "651-518-1783"
   } ],
   "Test" : {
     "Name" : "922356",
