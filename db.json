@@ -1,29 +1,764 @@
 {
   "Sites" : [ {
-    "Name" : "Johannesburg",
-    "SiteNr" : 3288787324,
-    "SiteTents" : 4,
-    "SiteType" : "Camo"
+    "Latitude" : 49.6321378,
+    "Location" : "02305 Elgar Lane",
+    "Longitude" : 18.2218546,
+    "SiteName" : "Tree porcupine",
+    "SiteNumber" : "385119627-9",
+    "Supervisor" : "Darell Cambden",
+    "SupervisorContact" : "993-467-5172"
   }, {
-    "Name" : "Fourways",
-    "SiteNr" : 30324,
-    "SiteTents" : 3,
-    "SiteType" : "Roof"
+    "Latitude" : 48.7078478,
+    "Location" : "7 Toban Drive",
+    "Longitude" : 44.5139052,
+    "SiteName" : "Bonnet macaque",
+    "SiteNumber" : "455789257-4",
+    "Supervisor" : "Pamelina Smalcombe",
+    "SupervisorContact" : "170-558-7736"
   }, {
-    "Name" : "Rosebank",
-    "SiteNr" : 388723,
-    "SiteTents" : 3,
-    "SiteType" : "Landlord"
+    "Latitude" : 39.6053819,
+    "Location" : "6714 Sutteridge Street",
+    "Longitude" : -8.4043125,
+    "SiteName" : "Puma, south american",
+    "SiteNumber" : "291927525-9",
+    "Supervisor" : "Jacinta Rao",
+    "SupervisorContact" : "428-957-3456"
   }, {
-    "Name" : "Greenside",
-    "SiteNr" : 903223,
-    "SiteTents" : 4,
-    "SiteType" : "Satelite"
+    "Latitude" : 49.5516872,
+    "Location" : "96 Sauthoff Road",
+    "Longitude" : 16.7807105,
+    "SiteName" : "Spotted wood sandpiper",
+    "SiteNumber" : "680815461-9",
+    "Supervisor" : "Ardyce Batchelar",
+    "SupervisorContact" : "761-691-4614"
   }, {
-    "Name" : "Bryanston",
-    "SiteNr" : 4003332,
-    "SiteTents" : 3,
-    "SiteType" : "Satelite"
+    "Latitude" : -1.3750813,
+    "Location" : "49834 Dorton Center",
+    "Longitude" : 37.9952144,
+    "SiteName" : "Giant otter",
+    "SiteNumber" : "429545890-2",
+    "Supervisor" : "Renault Cristoferi",
+    "SupervisorContact" : "639-430-6290"
+  }, {
+    "Latitude" : 8.788161,
+    "Location" : "7 Rowland Terrace",
+    "Longitude" : -76.240381,
+    "SiteName" : "Bandicoot, long-nosed",
+    "SiteNumber" : "827843693-2",
+    "Supervisor" : "Tracy Pristnor",
+    "SupervisorContact" : "326-703-8065"
+  }, {
+    "Latitude" : 22.4177717,
+    "Location" : "25 Almo Pass",
+    "Longitude" : 104.8104424,
+    "SiteName" : "Wombat, southern hairy-nosed",
+    "SiteNumber" : "637074038-1",
+    "Supervisor" : "Rae Tapsfield",
+    "SupervisorContact" : "905-286-3287"
+  }, {
+    "Latitude" : 41.3715365,
+    "Location" : "2 Anzinger Street",
+    "Longitude" : -8.7162646,
+    "SiteName" : "Bee-eater (unidentified)",
+    "SiteNumber" : "489079301-1",
+    "Supervisor" : "Barri McReynold",
+    "SupervisorContact" : "674-101-0162"
+  }, {
+    "Latitude" : -6.4178271,
+    "Location" : "11004 Gerald Point",
+    "Longitude" : 106.0904721,
+    "SiteName" : "Rhesus macaque",
+    "SiteNumber" : "292624012-0",
+    "Supervisor" : "Lorry Adhams",
+    "SupervisorContact" : "134-380-5508"
+  }, {
+    "Latitude" : 59.3528754,
+    "Location" : "4973 Heffernan Hill",
+    "Longitude" : 24.0551606,
+    "SiteName" : "Turtle (unidentified)",
+    "SiteNumber" : "552490384-5",
+    "Supervisor" : "Olga Thomlinson",
+    "SupervisorContact" : "215-543-5435"
+  }, {
+    "Latitude" : 50.7480989,
+    "Location" : "4 Mayer Center",
+    "Longitude" : 20.2540479,
+    "SiteName" : "Sandpiper, spotted wood",
+    "SiteNumber" : "272881428-7",
+    "Supervisor" : "Yvor Cronin",
+    "SupervisorContact" : "615-212-6379"
+  }, {
+    "Latitude" : -6.6975748,
+    "Location" : "7 Arapahoe Street",
+    "Longitude" : 111.591546,
+    "SiteName" : "Booby, masked",
+    "SiteNumber" : "832768162-1",
+    "Supervisor" : "Em Bocock",
+    "SupervisorContact" : "704-635-1597"
+  }, {
+    "Latitude" : -9.3326512,
+    "Location" : "8 Twin Pines Circle",
+    "Longitude" : 32.7548364,
+    "SiteName" : "Bulbul, african red-eyed",
+    "SiteNumber" : "797653328-2",
+    "Supervisor" : "Dillon Shillum",
+    "SupervisorContact" : "327-632-5325"
+  }, {
+    "Latitude" : 41.0423985,
+    "Location" : "35 Pepper Wood Alley",
+    "Longitude" : 21.3607894,
+    "SiteName" : "Dog, black-tailed prairie",
+    "SiteNumber" : "050434572-9",
+    "Supervisor" : "Ruprecht Titchard",
+    "SupervisorContact" : "689-882-5684"
+  }, {
+    "Latitude" : 9.239504,
+    "Location" : "394 Westridge Crossing",
+    "Longitude" : -75.6767349,
+    "SiteName" : "American crow",
+    "SiteNumber" : "095216643-7",
+    "Supervisor" : "Gerald Kopfer",
+    "SupervisorContact" : "642-264-0773"
+  }, {
+    "Latitude" : -3.7688094,
+    "Location" : "7 Transport Point",
+    "Longitude" : 37.7144645,
+    "SiteName" : "White-necked raven",
+    "SiteNumber" : "426399205-9",
+    "Supervisor" : "Cindra Lages",
+    "SupervisorContact" : "683-630-7844"
+  }, {
+    "Latitude" : 10.6852616,
+    "Location" : "1533 Moland Center",
+    "Longitude" : 43.946063,
+    "SiteName" : "Cobra (unidentified)",
+    "SiteNumber" : "262171529-X",
+    "Supervisor" : "Yvon Fairweather",
+    "SupervisorContact" : "392-703-6513"
+  }, {
+    "Latitude" : 12.7494718,
+    "Location" : "9151 Meadow Vale Alley",
+    "Longitude" : 4.5366582,
+    "SiteName" : "Purple moorhen",
+    "SiteNumber" : "732013779-8",
+    "Supervisor" : "Emilie Jakoub",
+    "SupervisorContact" : "964-476-4931"
+  }, {
+    "Latitude" : 49.9396574,
+    "Location" : "545 Corscot Road",
+    "Longitude" : 16.9280562,
+    "SiteName" : "Bird (unidentified)",
+    "SiteNumber" : "651997805-1",
+    "Supervisor" : "Gracia Romeuf",
+    "SupervisorContact" : "134-389-0879"
+  }, {
+    "Latitude" : 23.044969,
+    "Location" : "2212 Esch Plaza",
+    "Longitude" : 113.398429,
+    "SiteName" : "Coqui partridge",
+    "SiteNumber" : "337908091-8",
+    "Supervisor" : "Perry Corr",
+    "SupervisorContact" : "585-395-3044"
+  }, {
+    "Latitude" : 18.2849318,
+    "Location" : "0039 Novick Lane",
+    "Longitude" : 109.5907878,
+    "SiteName" : "Buffalo, wild water",
+    "SiteNumber" : "514128983-4",
+    "Supervisor" : "Noami Sacher",
+    "SupervisorContact" : "320-783-9479"
+  }, {
+    "Latitude" : -20.179973,
+    "Location" : "56 Westport Crossing",
+    "Longitude" : -48.0309631,
+    "SiteName" : "European red squirrel",
+    "SiteNumber" : "007047332-3",
+    "Supervisor" : "Nealon Maggiori",
+    "SupervisorContact" : "784-465-8676"
+  }, {
+    "Latitude" : 58.7462917,
+    "Location" : "9745 Debs Center",
+    "Longitude" : 26.3972118,
+    "SiteName" : "Vulture, white-rumped",
+    "SiteNumber" : "751824038-6",
+    "Supervisor" : "Sianna Pumphrey",
+    "SupervisorContact" : "232-414-6516"
+  }, {
+    "Latitude" : 37.9868856,
+    "Location" : "4289 South Center",
+    "Longitude" : -1.1371011,
+    "SiteName" : "Dove, emerald-spotted wood",
+    "SiteNumber" : "525042690-5",
+    "Supervisor" : "Ilise Von Salzberg",
+    "SupervisorContact" : "617-202-4707"
+  }, {
+    "Latitude" : 50.0099822,
+    "Location" : "020 Ronald Regan Circle",
+    "Longitude" : 17.0336959,
+    "SiteName" : "Eastern quoll",
+    "SiteNumber" : "731031295-3",
+    "Supervisor" : "Lib Mountstephen",
+    "SupervisorContact" : "454-436-8193"
+  }, {
+    "Latitude" : 53.5862715,
+    "Location" : "76 Golf Street",
+    "Longitude" : 16.3876584,
+    "SiteName" : "Blue crane",
+    "SiteNumber" : "714883994-7",
+    "Supervisor" : "Sutherlan Daft",
+    "SupervisorContact" : "540-291-9467"
+  }, {
+    "Latitude" : 14.7634494,
+    "Location" : "8117 Swallow Alley",
+    "Longitude" : 49.6044141,
+    "SiteName" : "Bustard, stanley",
+    "SiteNumber" : "377813766-2",
+    "Supervisor" : "Malena Merrett",
+    "SupervisorContact" : "922-353-9133"
+  }, {
+    "Latitude" : 18.4445307,
+    "Location" : "76 Redwing Junction",
+    "Longitude" : -69.9316834,
+    "SiteName" : "African lynx",
+    "SiteNumber" : "366803660-8",
+    "Supervisor" : "Mercie Sommersett",
+    "SupervisorContact" : "489-636-3822"
+  }, {
+    "Latitude" : 47.910483,
+    "Location" : "2 Schlimgen Plaza",
+    "Longitude" : 33.391783,
+    "SiteName" : "Australian masked owl",
+    "SiteNumber" : "628641275-1",
+    "Supervisor" : "Shannon Elwel",
+    "SupervisorContact" : "534-664-1639"
+  }, {
+    "Latitude" : 25.237566,
+    "Location" : "88960 Delaware Road",
+    "Longitude" : 106.763895,
+    "SiteName" : "Cottonmouth",
+    "SiteNumber" : "370748002-X",
+    "Supervisor" : "Lenora Holyard",
+    "SupervisorContact" : "969-962-4741"
+  }, {
+    "Latitude" : 43.0429124,
+    "Location" : "5058 Algoma Court",
+    "Longitude" : 1.9038837,
+    "SiteName" : "Eastern indigo snake",
+    "SiteNumber" : "697845022-7",
+    "Supervisor" : "Murdock Turford",
+    "SupervisorContact" : "511-382-2441"
+  }, {
+    "Latitude" : 13.2979317,
+    "Location" : "5 Brentwood Parkway",
+    "Longitude" : 123.7802005,
+    "SiteName" : "Cat, european wild",
+    "SiteNumber" : "340035823-1",
+    "Supervisor" : "Stevy Langstaff",
+    "SupervisorContact" : "442-349-6892"
+  }, {
+    "Latitude" : 39.949597,
+    "Location" : "3152 Crowley Place",
+    "Longitude" : 116.474285,
+    "SiteName" : "Dove, ring",
+    "SiteNumber" : "492914618-6",
+    "Supervisor" : "Calley Bodycombe",
+    "SupervisorContact" : "575-639-4571"
+  }, {
+    "Latitude" : -25.060476,
+    "Location" : "5523 Oriole Circle",
+    "Longitude" : 33.6958809,
+    "SiteName" : "African fish eagle",
+    "SiteNumber" : "231521083-6",
+    "Supervisor" : "Maribelle Horley",
+    "SupervisorContact" : "166-436-9272"
+  }, {
+    "Latitude" : 51.8417492,
+    "Location" : "64490 Mcguire Lane",
+    "Longitude" : 5.8715134,
+    "SiteName" : "Andean goose",
+    "SiteNumber" : "019778723-1",
+    "Supervisor" : "Trey Balaam",
+    "SupervisorContact" : "242-182-4500"
+  }, {
+    "Latitude" : 28.906106,
+    "Location" : "3317 Fairview Place",
+    "Longitude" : 111.970514,
+    "SiteName" : "Miner's cat",
+    "SiteNumber" : "671497620-8",
+    "Supervisor" : "Hewett Nutt",
+    "SupervisorContact" : "802-740-7508"
+  }, {
+    "Latitude" : 56.2507818,
+    "Location" : "05 Cody Park",
+    "Longitude" : 12.9929582,
+    "SiteName" : "Asian water buffalo",
+    "SiteNumber" : "712209623-8",
+    "Supervisor" : "Geoff Onions",
+    "SupervisorContact" : "804-260-2024"
+  }, {
+    "Latitude" : 14.0736932,
+    "Location" : "99896 Quincy Street",
+    "Longitude" : -86.4187308,
+    "SiteName" : "Coqui francolin",
+    "SiteNumber" : "026130169-1",
+    "Supervisor" : "Ursuline Peever",
+    "SupervisorContact" : "694-972-2126"
+  }, {
+    "Latitude" : 63.8191979,
+    "Location" : "4623 Northland Circle",
+    "Longitude" : 20.2821264,
+    "SiteName" : "Cockatoo, slender-billed",
+    "SiteNumber" : "034396664-6",
+    "Supervisor" : "Ellary Egglestone",
+    "SupervisorContact" : "238-698-0283"
+  }, {
+    "Latitude" : 38.0120968,
+    "Location" : "548 Division Circle",
+    "Longitude" : 23.7725723,
+    "SiteName" : "Yellow-billed stork",
+    "SiteNumber" : "778892832-1",
+    "Supervisor" : "Ondrea Grundey",
+    "SupervisorContact" : "387-676-5262"
+  }, {
+    "Latitude" : 61.7904399,
+    "Location" : "5 Carberry Parkway",
+    "Longitude" : 29.3146856,
+    "SiteName" : "Blue duck",
+    "SiteNumber" : "494829445-4",
+    "Supervisor" : "Syd Gresch",
+    "SupervisorContact" : "479-102-1504"
+  }, {
+    "Latitude" : 52.6915552,
+    "Location" : "70676 Merry Crossing",
+    "Longitude" : 1.6993747,
+    "SiteName" : "Gull, lava",
+    "SiteNumber" : "816560265-9",
+    "Supervisor" : "Pauline Tilbey",
+    "SupervisorContact" : "624-903-2828"
+  }, {
+    "Latitude" : 49.0301146,
+    "Location" : "19102 Pierstorff Center",
+    "Longitude" : 2.2509675,
+    "SiteName" : "Rattlesnake, eastern diamondback",
+    "SiteNumber" : "569766717-5",
+    "Supervisor" : "Dame Dwyer",
+    "SupervisorContact" : "681-153-9744"
+  }, {
+    "Latitude" : 40.1122778,
+    "Location" : "34 Barnett Way",
+    "Longitude" : -7.121411,
+    "SiteName" : "Grison",
+    "SiteNumber" : "123318166-1",
+    "Supervisor" : "Guthrey Dobbs",
+    "SupervisorContact" : "897-648-7206"
+  }, {
+    "Latitude" : 14.4931058,
+    "Location" : "88 Buhler Pass",
+    "Longitude" : 121.044773,
+    "SiteName" : "Bear, black",
+    "SiteNumber" : "909819113-4",
+    "Supervisor" : "Gayle Cearley",
+    "SupervisorContact" : "870-678-9732"
+  }, {
+    "Latitude" : 28.2645193,
+    "Location" : "4 Carioca Hill",
+    "Longitude" : 68.4722695,
+    "SiteName" : "Cow, scottish highland",
+    "SiteNumber" : "391490685-5",
+    "Supervisor" : "Donal Lomis",
+    "SupervisorContact" : "380-807-9355"
+  }, {
+    "Latitude" : 42.1874125,
+    "Location" : "67 Rieder Circle",
+    "Longitude" : 20.0003019,
+    "SiteName" : "Boa, columbian rainbow",
+    "SiteNumber" : "255862387-7",
+    "Supervisor" : "Felipe Thomann",
+    "SupervisorContact" : "524-278-3006"
+  }, {
+    "Latitude" : 53.2724538,
+    "Location" : "7 Montana Parkway",
+    "Longitude" : -6.1215213,
+    "SiteName" : "Weaver, lesser masked",
+    "SiteNumber" : "404371511-0",
+    "Supervisor" : "Shara Hafford",
+    "SupervisorContact" : "884-318-6491"
+  }, {
+    "Latitude" : -21.609128,
+    "Location" : "914 Pond Point",
+    "Longitude" : 166.2143471,
+    "SiteName" : "Vulture, oriental white-backed",
+    "SiteNumber" : "337719090-2",
+    "Supervisor" : "Mohandis McCathy",
+    "SupervisorContact" : "615-631-4819"
+  }, {
+    "Latitude" : -8.8828551,
+    "Location" : "85737 Haas Street",
+    "Longitude" : -36.4968966,
+    "SiteName" : "Caracal",
+    "SiteNumber" : "853520369-9",
+    "Supervisor" : "Aguste Alan",
+    "SupervisorContact" : "873-172-3856"
+  }, {
+    "Latitude" : 35.3237104,
+    "Location" : "6 Raven Crossing",
+    "Longitude" : 33.3149413,
+    "SiteName" : "Hartebeest, coke's",
+    "SiteNumber" : "440864799-3",
+    "Supervisor" : "Thomas Varrow",
+    "SupervisorContact" : "931-528-0804"
+  }, {
+    "Latitude" : -1.658501,
+    "Location" : "54 International Park",
+    "Longitude" : 29.2204548,
+    "SiteName" : "Hyrax",
+    "SiteNumber" : "181969796-7",
+    "Supervisor" : "Patrick See",
+    "SupervisorContact" : "107-162-2776"
+  }, {
+    "Latitude" : 59.2416497,
+    "Location" : "5312 Blackbird Avenue",
+    "Longitude" : 14.4338249,
+    "SiteName" : "Pine snake (unidentified)",
+    "SiteNumber" : "125952847-2",
+    "Supervisor" : "Wilbur de Clerk",
+    "SupervisorContact" : "592-263-2413"
+  }, {
+    "Latitude" : 45.446434,
+    "Location" : "8 Leroy Center",
+    "Longitude" : 14.3769784,
+    "SiteName" : "Duck, comb",
+    "SiteNumber" : "149548209-X",
+    "Supervisor" : "Adlai Cornelissen",
+    "SupervisorContact" : "609-595-9120"
+  }, {
+    "Latitude" : -8.0038635,
+    "Location" : "2500 Stoughton Road",
+    "Longitude" : 113.7216313,
+    "SiteName" : "Stick insect",
+    "SiteNumber" : "118148148-1",
+    "Supervisor" : "Riobard Clawe",
+    "SupervisorContact" : "977-271-9163"
+  }, {
+    "Latitude" : "13.7501",
+    "Location" : "52073 Daystar Drive",
+    "Longitude" : "121.41492",
+    "SiteName" : "Whale, southern right",
+    "SiteNumber" : "699963286-3",
+    "Supervisor" : "Chantal McLuckie",
+    "SupervisorContact" : "788-202-1750"
+  }, {
+    "Latitude" : 28.663694,
+    "Location" : "07 Moulton Terrace",
+    "Longitude" : 118.534841,
+    "SiteName" : "Bear, american black",
+    "SiteNumber" : "459723672-4",
+    "Supervisor" : "Claudian Bevans",
+    "SupervisorContact" : "792-949-6532"
+  }, {
+    "Latitude" : 23.2321219,
+    "Location" : "09 Toban Drive",
+    "Longitude" : -106.4140053,
+    "SiteName" : "Brown and yellow marshbird",
+    "SiteNumber" : "544936872-0",
+    "Supervisor" : "Terri Vivyan",
+    "SupervisorContact" : "155-583-1309"
+  }, {
+    "Latitude" : 32.707997,
+    "Location" : "84 Butterfield Hill",
+    "Longitude" : 110.341615,
+    "SiteName" : "Gray heron",
+    "SiteNumber" : "350867853-9",
+    "Supervisor" : "Noah Pleass",
+    "SupervisorContact" : "698-122-6949"
+  }, {
+    "Latitude" : 28.30993,
+    "Location" : "87 Haas Road",
+    "Longitude" : 109.202036,
+    "SiteName" : "Fox, asian red",
+    "SiteNumber" : "302872179-1",
+    "Supervisor" : "Wendeline Cumbridge",
+    "SupervisorContact" : "365-661-9634"
+  }, {
+    "Latitude" : 41.430751,
+    "Location" : "5 Green Place",
+    "Longitude" : -8.6435589,
+    "SiteName" : "Sociable weaver",
+    "SiteNumber" : "494309304-3",
+    "Supervisor" : "Mavra Samet",
+    "SupervisorContact" : "123-634-0816"
+  }, {
+    "Latitude" : -7.2526036,
+    "Location" : "76711 Merry Crossing",
+    "Longitude" : 108.4543113,
+    "SiteName" : "Crane, stanley",
+    "SiteNumber" : "311727383-2",
+    "Supervisor" : "Forester Nuss",
+    "SupervisorContact" : "345-462-8062"
+  }, {
+    "Latitude" : "31.93592",
+    "Location" : "391 Anzinger Way",
+    "Longitude" : "35.005",
+    "SiteName" : "Jackal, silver-backed",
+    "SiteNumber" : "886592782-8",
+    "Supervisor" : "Tucker McCarry",
+    "SupervisorContact" : "642-263-0780"
+  }, {
+    "Latitude" : 38.243169,
+    "Location" : "96600 Vera Avenue",
+    "Longitude" : 101.984648,
+    "SiteName" : "Possum, golden brush-tailed",
+    "SiteNumber" : "905017890-1",
+    "Supervisor" : "Corliss Phateplace",
+    "SupervisorContact" : "545-616-5130"
+  }, {
+    "Latitude" : 36.1219748,
+    "Location" : "8793 Portage Circle",
+    "Longitude" : 139.707963,
+    "SiteName" : "Possum, golden brush-tailed",
+    "SiteNumber" : "851638701-1",
+    "Supervisor" : "Catie Gait",
+    "SupervisorContact" : "179-265-8968"
+  }, {
+    "Latitude" : -8.2424321,
+    "Location" : "6493 Di Loreto Way",
+    "Longitude" : 123.4940401,
+    "SiteName" : "European wild cat",
+    "SiteNumber" : "128149575-1",
+    "Supervisor" : "Adella Barnbrook",
+    "SupervisorContact" : "128-490-4165"
+  }, {
+    "Latitude" : 53.1255737,
+    "Location" : "15 Cordelia Road",
+    "Longitude" : 26.0091684,
+    "SiteName" : "Common melba finch",
+    "SiteNumber" : "011255534-9",
+    "Supervisor" : "Natty Coulling",
+    "SupervisorContact" : "646-791-0121"
+  }, {
+    "Latitude" : 49.417735,
+    "Location" : "0 American Court",
+    "Longitude" : 19.6808046,
+    "SiteName" : "European spoonbill",
+    "SiteNumber" : "645566586-4",
+    "Supervisor" : "Chaunce Woolis",
+    "SupervisorContact" : "814-177-9824"
+  }, {
+    "Latitude" : -21.8421051,
+    "Location" : "27 Westridge Park",
+    "Longitude" : -47.4710798,
+    "SiteName" : "Buffalo, wild water",
+    "SiteNumber" : "671876623-2",
+    "Supervisor" : "Westley Samson",
+    "SupervisorContact" : "295-520-6387"
+  }, {
+    "Latitude" : -23.3505295,
+    "Location" : "56711 Merchant Lane",
+    "Longitude" : 47.5914122,
+    "SiteName" : "Scaly-breasted lorikeet",
+    "SiteNumber" : "527171756-9",
+    "Supervisor" : "Brina Capelle",
+    "SupervisorContact" : "608-146-7377"
+  }, {
+    "Latitude" : -32.9285798,
+    "Location" : "62 Village Trail",
+    "Longitude" : -60.6923382,
+    "SiteName" : "Squirrel, thirteen-lined",
+    "SiteNumber" : "745878338-9",
+    "Supervisor" : "Hailey Sarge",
+    "SupervisorContact" : "419-460-8861"
+  }, {
+    "Latitude" : 55.0467482,
+    "Location" : "9030 Westerfield Way",
+    "Longitude" : 59.0082549,
+    "SiteName" : "Flycatcher, tyrant",
+    "SiteNumber" : "936256916-7",
+    "Supervisor" : "Nertie Dalling",
+    "SupervisorContact" : "942-315-5828"
+  }, {
+    "Latitude" : -4.1615016,
+    "Location" : "5 Mayer Drive",
+    "Longitude" : -40.7511885,
+    "SiteName" : "Drongo, fork-tailed",
+    "SiteNumber" : "487752922-5",
+    "Supervisor" : "Zsazsa Dinzey",
+    "SupervisorContact" : "199-419-8731"
+  }, {
+    "Latitude" : -34.7061803,
+    "Location" : "71435 Marquette Plaza",
+    "Longitude" : -58.3124766,
+    "SiteName" : "Squirrel, antelope ground",
+    "SiteNumber" : "744447229-7",
+    "Supervisor" : "Benetta Deavin",
+    "SupervisorContact" : "553-793-6020"
+  }, {
+    "Latitude" : -17.8766507,
+    "Location" : "9852 Meadow Ridge Plaza",
+    "Longitude" : 30.6775054,
+    "SiteName" : "Booby, blue-faced",
+    "SiteNumber" : "108588926-2",
+    "Supervisor" : "Leila Dengel",
+    "SupervisorContact" : "801-343-4265"
+  }, {
+    "Latitude" : 8.8443024,
+    "Location" : "83 Cottonwood Avenue",
+    "Longitude" : -79.8548823,
+    "SiteName" : "Currasow (unidentified)",
+    "SiteNumber" : "420625904-6",
+    "Supervisor" : "Millie Petcher",
+    "SupervisorContact" : "902-290-0011"
+  }, {
+    "Latitude" : 52.3979454,
+    "Location" : "44 Straubel Street",
+    "Longitude" : 23.8257811,
+    "SiteName" : "Eastern grey kangaroo",
+    "SiteNumber" : "141078735-4",
+    "Supervisor" : "Itch Hellwing",
+    "SupervisorContact" : "739-304-0712"
+  }, {
+    "Latitude" : 55.3377048,
+    "Location" : "9727 Lindbergh Road",
+    "Longitude" : 59.6818456,
+    "SiteName" : "American racer",
+    "SiteNumber" : "064219481-5",
+    "Supervisor" : "Pooh Beasant",
+    "SupervisorContact" : "950-871-1756"
+  }, {
+    "Latitude" : 8.9061016,
+    "Location" : "844 Magdeline Street",
+    "Longitude" : 117.5524235,
+    "SiteName" : "Fork-tailed drongo",
+    "SiteNumber" : "686916922-5",
+    "Supervisor" : "Lena Swatton",
+    "SupervisorContact" : "176-849-5847"
+  }, {
+    "Latitude" : 41.3245904,
+    "Location" : "56047 Atwood Hill",
+    "Longitude" : 19.4564686,
+    "SiteName" : "Pelican, brown",
+    "SiteNumber" : "464970152-X",
+    "Supervisor" : "Boycey Guite",
+    "SupervisorContact" : "727-642-6824"
+  }, {
+    "Latitude" : 29.9193861,
+    "Location" : "27729 Fisk Alley",
+    "Longitude" : 73.0747872,
+    "SiteName" : "Dog, african wild",
+    "SiteNumber" : "086369915-4",
+    "Supervisor" : "Myrah Winward",
+    "SupervisorContact" : "799-191-0714"
+  }, {
+    "Latitude" : -7.6092767,
+    "Location" : "33279 Moulton Junction",
+    "Longitude" : 15.0552391,
+    "SiteName" : "Eland, common",
+    "SiteNumber" : "156829018-7",
+    "Supervisor" : "Spencer Brownrigg",
+    "SupervisorContact" : "839-572-8179"
+  }, {
+    "Latitude" : 46.3744902,
+    "Location" : "291 Forest Dale Street",
+    "Longitude" : 17.7857168,
+    "SiteName" : "Ox, musk",
+    "SiteNumber" : "050329869-7",
+    "Supervisor" : "Carlin Dalloway",
+    "SupervisorContact" : "282-967-0656"
+  }, {
+    "Latitude" : 19.710125,
+    "Location" : "016 Amoth Hill",
+    "Longitude" : -99.1400807,
+    "SiteName" : "Hawk-headed parrot",
+    "SiteNumber" : "565227254-6",
+    "Supervisor" : "Remy Dormand",
+    "SupervisorContact" : "982-354-3212"
+  }, {
+    "Latitude" : 6.027632,
+    "Location" : "726 Declaration Court",
+    "Longitude" : -75.431596,
+    "SiteName" : "Dolphin, bottle-nose",
+    "SiteNumber" : "099262751-6",
+    "Supervisor" : "Lyda Panton",
+    "SupervisorContact" : "181-870-8566"
+  }, {
+    "Latitude" : -6.427987,
+    "Location" : "31019 Menomonie Court",
+    "Longitude" : 110.9561,
+    "SiteName" : "Andean goose",
+    "SiteNumber" : "371775232-4",
+    "Supervisor" : "Fidelio Senecaut",
+    "SupervisorContact" : "620-637-8506"
+  }, {
+    "Latitude" : 25.505194,
+    "Location" : "10781 Dakota Alley",
+    "Longitude" : 108.484536,
+    "SiteName" : "Kudu, greater",
+    "SiteNumber" : "185066055-7",
+    "Supervisor" : "Latrena MacKenney",
+    "SupervisorContact" : "416-904-7917"
+  }, {
+    "Latitude" : 37.2406676,
+    "Location" : "899 Havey Hill",
+    "Longitude" : 55.1596592,
+    "SiteName" : "Armadillo, common long-nosed",
+    "SiteNumber" : "719095440-6",
+    "Supervisor" : "Talyah Weekley",
+    "SupervisorContact" : "405-897-3757"
+  }, {
+    "Latitude" : 44.2990355,
+    "Location" : "9 Independence Plaza",
+    "Longitude" : 15.8462167,
+    "SiteName" : "Carmine bee-eater",
+    "SiteNumber" : "398684604-2",
+    "Supervisor" : "Jarrett Divell",
+    "SupervisorContact" : "539-678-5773"
+  }, {
+    "Latitude" : 40.888872,
+    "Location" : "288 Haas Alley",
+    "Longitude" : 19.5181312,
+    "SiteName" : "Common shelduck",
+    "SiteNumber" : "586876204-5",
+    "Supervisor" : "Marchelle Axup",
+    "SupervisorContact" : "728-837-2421"
+  }, {
+    "Latitude" : 23.1343601,
+    "Location" : "11883 Bay Pass",
+    "Longitude" : -82.3533266,
+    "SiteName" : "Blue-tongued skink",
+    "SiteNumber" : "825827312-4",
+    "Supervisor" : "Maisie Pinnigar",
+    "SupervisorContact" : "773-340-0878"
+  }, null, {
+    "Latitude" : 36.650038,
+    "Location" : "56787 Mallard Street",
+    "Longitude" : 101.766228,
+    "SiteName" : "Marten, american",
+    "SiteNumber" : "556695383-2",
+    "Supervisor" : "Tarah Cordrey",
+    "SupervisorContact" : "438-663-4771"
+  }, {
+    "Latitude" : 35.342561,
+    "Location" : "6 Ryan Court",
+    "Longitude" : 101.903378,
+    "SiteName" : "Ground legaan",
+    "SiteNumber" : "844950329-9",
+    "Supervisor" : "Milicent Haldon",
+    "SupervisorContact" : "202-294-0679"
+  }, null, {
+    "Latitude" : 37.8756819,
+    "Location" : "5 Cascade Center",
+    "Longitude" : 21.2666794,
+    "SiteName" : "Red-winged blackbird",
+    "SiteNumber" : "524412139-1",
+    "Supervisor" : "Christos Beernt",
+    "SupervisorContact" : "322-515-4878"
+  }, null, {
+    "Latitude" : -3.9879753,
+    "Location" : "89 Dryden Street",
+    "Longitude" : -79.3535714,
+    "SiteName" : "Vulture, turkey",
+    "SiteNumber" : "888220735-8",
+    "Supervisor" : "Dukie Glynne",
+    "SupervisorContact" : "167-222-7062"
   } ],
   "Test" : {
     "Name" : "922356",
