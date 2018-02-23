@@ -1,5 +1,6 @@
 {
   "Sites" : [ {
+<<<<<<< HEAD
     "Latitude" : 49.6321378,
     "Location" : "02305 Elgar Lane",
     "Longitude" : 18.2218546,
@@ -760,6 +761,128 @@
     "Supervisor" : "Dukie Glynne",
     "SupervisorContact" : "167-222-7062"
   } ],
+=======
+    "Latitude" : 1.160532,
+    "Location" : "213 Crescent Oaks Alley",
+    "Longitude" : -76.6181655,
+    "SiteName" : "Pampa gray fox",
+    "SiteNumber" : "909046769-6",
+    "Supervisor" : "Philomena Finker",
+    "SupervisorContact" : "866-318-1578"
+  }, {
+    "Latitude" : -3.112524,
+    "Location" : "758 Holmberg Crossing",
+    "Longitude" : 115.0406679,
+    "SiteName" : "Bat-eared fox",
+    "SiteNumber" : "767433519-4",
+    "Supervisor" : "Elmo Gofforth",
+    "SupervisorContact" : "673-412-9747"
+  }, {
+    "Latitude" : 8.0762129,
+    "Location" : "99 4th Junction",
+    "Longitude" : -73.222102,
+    "SiteName" : "Hornbill, southern ground",
+    "SiteNumber" : "209939263-3",
+    "Supervisor" : "Silvana Reily",
+    "SupervisorContact" : "187-405-3648"
+  }, {
+    "Latitude" : 13.204053,
+    "Location" : "7359 Schurz Junction",
+    "Longitude" : 108.2080973,
+    "SiteName" : "Yellow-rumped siskin",
+    "SiteNumber" : "912921883-7",
+    "Supervisor" : "Lorry Villa",
+    "SupervisorContact" : "918-413-0001"
+  }, {
+    "Latitude" : 31.09656,
+    "Location" : "1702 Anhalt Parkway",
+    "Longitude" : 121.507445,
+    "SiteName" : "Blackish oystercatcher",
+    "SiteNumber" : "693944599-4",
+    "Supervisor" : "Grissel Filochov",
+    "SupervisorContact" : "993-564-4550"
+  }, {
+    "Latitude" : 53.1872306,
+    "Location" : "4615 Lighthouse Bay Crossing",
+    "Longitude" : 18.0963464,
+    "SiteName" : "Ferret, black-footed",
+    "SiteNumber" : "816439326-6",
+    "Supervisor" : "Brooks Weddup",
+    "SupervisorContact" : "392-115-4138"
+  }, {
+    "Latitude" : 48.1510123,
+    "Location" : "4 Hallows Alley",
+    "Longitude" : -80.0330343,
+    "SiteName" : "Stone sheep",
+    "SiteNumber" : "830548412-2",
+    "Supervisor" : "Krista Keasey",
+    "SupervisorContact" : "626-972-4461"
+  }, {
+    "Latitude" : 17.8281158,
+    "Location" : "69 Kinsman Trail",
+    "Longitude" : -95.8162299,
+    "SiteName" : "Colobus, white-mantled",
+    "SiteNumber" : "088034337-0",
+    "Supervisor" : "Audie Diehn",
+    "SupervisorContact" : "251-302-1019"
+  }, {
+    "Latitude" : "31.69948",
+    "Location" : "2801 Sommers Court",
+    "Longitude" : "35.18047",
+    "SiteName" : "Mouflon",
+    "SiteNumber" : "662750286-0",
+    "Supervisor" : "Zolly Purkins",
+    "SupervisorContact" : "308-735-8486"
+  }, {
+    "Latitude" : -14.3651534,
+    "Location" : "292 Longview Road",
+    "Longitude" : -72.8778527,
+    "SiteName" : "Tern, white-winged black",
+    "SiteNumber" : "690034396-1",
+    "Supervisor" : "Yankee Gosnold",
+    "SupervisorContact" : "425-142-9299"
+  }, {
+    "Latitude" : 16.1991156,
+    "Location" : "966 Shopko Circle",
+    "Longitude" : 103.2839975,
+    "SiteName" : "Horned lark",
+    "SiteNumber" : "881124168-5",
+    "Supervisor" : "Julee Pirt",
+    "SupervisorContact" : "916-671-3760"
+  }, {
+    "Latitude" : 39.934201,
+    "Location" : "79745 Autumn Leaf Circle",
+    "Longitude" : 116.430668,
+    "SiteName" : "Galapagos tortoise",
+    "SiteNumber" : "373479091-3",
+    "Supervisor" : "Belinda Caskey",
+    "SupervisorContact" : "697-670-4418"
+  }, {
+    "Latitude" : 16.7122183,
+    "Location" : "797 Elka Avenue",
+    "Longitude" : 103.7694692,
+    "SiteName" : "Southern hairy-nosed wombat",
+    "SiteNumber" : "852383401-X",
+    "Supervisor" : "Elysha Jamblin",
+    "SupervisorContact" : "522-375-6756"
+  }, {
+    "Latitude" : 8.490877,
+    "Location" : "8 Schmedeman Alley",
+    "Longitude" : 124.345771,
+    "SiteName" : "Squirrel, grey-footed",
+    "SiteNumber" : "860471998-9",
+    "Supervisor" : "Rozalin Southgate",
+    "SupervisorContact" : "869-813-8899"
+  }, {
+    "Latitude" : 53.3276146,
+    "Location" : "0 Montana Road",
+    "Longitude" : 83.7603436,
+    "SiteName" : "Jacana, african",
+    "SiteNumber" : "796268079-2",
+    "Supervisor" : "Elton MacAskie",
+    "SupervisorContact" : "260-487-5456"
+  }],
+>>>>>>> d4313640bd2320ce41c58b433a30d9b909d5d870
   "Test" : {
     "Name" : "922356",
     "Site" : "Fourways",
