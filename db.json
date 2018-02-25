@@ -1,53 +1,5 @@
 {
   "Sites" : [ {
-    "Latitude" : 38.243169,
-    "Location" : "96600 Vera Avenue",
-    "Longitude" : 101.984648,
-    "SiteName" : "Possum, golden brush-tailed",
-    "SiteNumber" : "905017890-1",
-    "Supervisor" : "Corliss Phateplace",
-    "SupervisorContact" : "545-616-5130"
-  }, {
-    "Latitude" : 36.1219748,
-    "Location" : "8793 Portage Circle",
-    "Longitude" : 139.707963,
-    "SiteName" : "Possum, golden brush-tailed",
-    "SiteNumber" : "851638701-1",
-    "Supervisor" : "Catie Gait",
-    "SupervisorContact" : "179-265-8968"
-  }, {
-    "Latitude" : -8.2424321,
-    "Location" : "6493 Di Loreto Way",
-    "Longitude" : 123.4940401,
-    "SiteName" : "European wild cat",
-    "SiteNumber" : "128149575-1",
-    "Supervisor" : "Adella Barnbrook",
-    "SupervisorContact" : "128-490-4165"
-  }, {
-    "Latitude" : 53.1255737,
-    "Location" : "15 Cordelia Road",
-    "Longitude" : 26.0091684,
-    "SiteName" : "Common melba finch",
-    "SiteNumber" : "011255534-9",
-    "Supervisor" : "Natty Coulling",
-    "SupervisorContact" : "646-791-0121"
-  }, {
-    "Latitude" : 49.417735,
-    "Location" : "0 American Court",
-    "Longitude" : 19.6808046,
-    "SiteName" : "European spoonbill",
-    "SiteNumber" : "645566586-4",
-    "Supervisor" : "Chaunce Woolis",
-    "SupervisorContact" : "814-177-9824"
-  }, {
-    "Latitude" : -21.8421051,
-    "Location" : "27 Westridge Park",
-    "Longitude" : -47.4710798,
-    "SiteName" : "Buffalo, wild water",
-    "SiteNumber" : "671876623-2",
-    "Supervisor" : "Westley Samson",
-    "SupervisorContact" : "295-520-6387"
-  }, {
     "Latitude" : -23.3505295,
     "Location" : "56711 Merchant Lane",
     "Longitude" : 47.5914122,
