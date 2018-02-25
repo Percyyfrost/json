@@ -1,5 +1,13 @@
 {
-  "Sites" : [ {
+  "Sites" : [{
+    "Latitude" : 26.2041,
+    "Location" : "Fourways",
+    "Longitude" : 28.0473,
+    "SiteName" : "Sight",
+    "SiteNumber" : "4335434543-6",
+    "Supervisor" : "Vuyani",
+    "SupervisorContact" : "082 813 8---"
+  }, {
     "Latitude" : -23.3505295,
     "Location" : "56711 Merchant Lane",
     "Longitude" : 47.5914122,
