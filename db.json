@@ -1,5 +1,13 @@
 {
   "Sites" : [ {
+    "Latitude" : -122.0840,
+    "Location" : "Happy ave",
+    "Longitude" :  37.4220,
+    "SiteName" : "Milky Lane",
+    "SiteNumber" : "73487734-8",
+    "Supervisor" : "Vuyani Nxele",
+    "SupervisorContact" : "Self"
+}, {
     "Latitude" : -23.3505295,
     "Location" : "56711 Merchant Lane",
     "Longitude" : 47.5914122,
