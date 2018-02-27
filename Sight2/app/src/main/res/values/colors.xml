@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="PastelPinkBlue">#e5d3ce</color>
+    <color name="SeaBlue">#6bb3c2</color>
+    <color name="RoyalPurple">#525266</color>
+    <color name="SalmonPink">#ffb8b8</color>
+    <color name="PastelSalmonPink">	#ecb4b4</color>
+    <color name="PastelDarkPink">#d6727c</color>
+    <color name="White">#ffffff</color>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/SeaBlue"
+    android:textColor="@color/RoyalPurple"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/siteinfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:divider="@null"/>
+
+    <View android:layout_width="500dp"
+        android:layout_height="500dp"
+        >
+    </View>
+</RelativeLayout>
